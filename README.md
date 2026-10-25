@@ -44,8 +44,7 @@ $$
 
 [github](https://github.com/donskova07/Lab4_ISRPO_donskova)
 
-![alt](/repo\image.png)
-~~~bash
+![alt](repo\browser_donskova.png)
 
 10.
-Подводя итоги, можно сказать, то что работа, проделанная сегодня, надеюсь, будет хорошо оцененна.
+В этой лабораторной мы хорошо поработали, над заданиями.
